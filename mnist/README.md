@@ -1,4 +1,7 @@
 To get started open the *cnn.ipynb*, that will be the jupyter-notebook used for this CNN with all the code. <br>
+Most of the beginning of the jupyter-notebook is created by Tensorflow's Keras. <br>
+You can find the it here https://keras.io/examples/vision/mnist_convnet/ . <br>
+I have only deleted the first cell of the notebook. <br>
 
 The structure of the CNN can be found in the file *mnist_convnet_summary.png* and *mnist_convnet.png*.
 
